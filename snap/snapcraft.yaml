@@ -1,4 +1,4 @@
-name: shanepelletier-staging-coi
+name: shanepelletier-bobert
 base: core20
 version: '0.2'
 summary: A snap application which prints hello world in la .lojban.
