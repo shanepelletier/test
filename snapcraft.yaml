@@ -1,4 +1,4 @@
-name: shanepelletier-bober3
+name: shanepelletier-bober4
 base: core20
 version: '0.2'
 summary: A snap application which prints hello world in la .lojban.
@@ -10,7 +10,7 @@ grade: stable
 confinement: strict
 
 apps:
-  shanepelletier-bober3:
+  shanepelletier-bober4:
     command: src/coi.py
 
 parts:
