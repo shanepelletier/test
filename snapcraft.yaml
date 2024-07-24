@@ -1,0 +1,22 @@
+name: shanepelletier-bober3
+base: core20
+version: '0.2'
+summary: A snap application which prints hello world in la .lojban.
+description: At one point I tried learning Lojban. coi is basically all I remember.
+contact: mailto:hello@shanepelletier.com
+website: https://shanepelletier.com
+
+grade: stable
+confinement: strict
+
+apps:
+  shanepelletier-bober3:
+    command: src/coi.py
+
+parts:
+  main:
+    source: .
+    plugin: dump
+
+  python:
+    plugin: python
