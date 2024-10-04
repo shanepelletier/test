@@ -16,3 +16,5 @@ parts:
     plugin: nil
     stage-packages:
       - hello
+    source: ""
+    source-channel: latest/edge
