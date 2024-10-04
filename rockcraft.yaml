@@ -1,16 +1,18 @@
-name: shanepelletier-test-rockcraft
-summary: Hello world from Chisel slices
-description: A "bare" rock containing the "hello" package binaries from Chisel slices.
+name: shanepelletier-test-rockcraft-nonchiselled
+summary: Hello World
+description: The most basic example of a rock.
+version: "latest"
 license: Apache-2.0
 
-version: "latest"
 base: bare
-build_base: "ubuntu@22.04"
+build-base: ubuntu@22.04
 platforms:
-  amd64:
+  amd64:  # Make sure this value matches your computer's architecture
+
+# Parts section
 
 parts:
   hello:
     plugin: nil
     stage-packages:
-      - hello_bins
+      - hello
