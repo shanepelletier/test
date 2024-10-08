@@ -4,6 +4,7 @@ description: The most basic example of a rock.
 version: "latest"
 license: Apache-2.0
 
+# TODO: more platforms?
 base: bare
 build-base: ubuntu@22.04
 platforms:
