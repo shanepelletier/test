@@ -3,6 +3,7 @@ description: An empty source project
 base: "ubuntu@24.04"
 version: "0.0"
 license: GPL-3.0-Only
+# TODO: maybe *less* platforms?
 platforms:
   amd64:
   arm64:
