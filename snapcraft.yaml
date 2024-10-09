@@ -1,4 +1,5 @@
 name: shanepelletier-bober4
+# TODO: update base
 base: core20
 version: '0.2'
 summary: A snap application which prints hello world in la .lojban.
