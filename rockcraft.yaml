@@ -1,6 +1,7 @@
 name: shanepelletier-test-rockcraft-nonchiselled
 summary: Hello World
 description: The most basic example of a rock.
+# TODO: generate version somehow?
 version: "latest"
 license: Apache-2.0
 
