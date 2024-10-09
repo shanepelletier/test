@@ -4,6 +4,7 @@ description: The most basic example of a rock.
 # TODO: generate version somehow?
 version: "latest"
 license: Apache-2.0
+# AAAAAAAAAAAAAAAHHHHHHHHHHHHHH
 # TODO: todo.
 # TODO: more platforms?
 base: bare
