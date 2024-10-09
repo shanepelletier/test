@@ -6,7 +6,7 @@ summary: A snap application which prints hello world in la .lojban.
 description: At one point I tried learning Lojban. coi is basically all I remember.
 contact: mailto:hello@shanepelletier.com
 website: https://shanepelletier.com
-
+# JKLJKL:JKLJLK:
 grade: stable
 confinement: strict
 
