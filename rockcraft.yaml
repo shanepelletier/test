@@ -18,4 +18,3 @@ parts:
     stage-packages:
       - hello
     source: ""
-    source-channel: latest/edge
