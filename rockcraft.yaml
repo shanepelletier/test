@@ -11,6 +11,8 @@ base: bare
 build-base: ubuntu@22.04
 platforms:
   amd64:
+  arm64:
+  s390x:
 
 parts:
   hello:
